@@ -1,0 +1,2 @@
+1. En la carpeta "bd" está la base de datos, exporte al localhost.
+2. Es es el link quer debera colocar en el buscador: http://localhost/R_N_aprendices/mostrar_aprendices_l_c.php
